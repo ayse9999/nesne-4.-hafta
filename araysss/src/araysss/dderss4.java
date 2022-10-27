@@ -76,7 +76,7 @@ public class dderss4 {
 			
 			System.out.println("cok ıyı");
 		else 
-			System.out.println("bİlgİlerinizi tazeleme vaktı geldı");
+			System.out.println("bİlgİlerinizi tazeleme vakti geldi");
 		for(String cevap:cevaplar) {
 			System.out.println(cevap);
 		}
