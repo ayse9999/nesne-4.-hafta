@@ -13,7 +13,7 @@ public class arrays2 {
 		 for(int counter=0; counter<array.length; counter++) {
 			 System.out.printf("%5d%8d%n" , counter, array[counter]);
 		 }
-		 System.out.println("dizinin tersi");
+		 System.out.println("dizinin tersi:");
 		 for( i=0 ;i<array.length;i++) {
 			
 			
